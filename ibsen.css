@@ -1,0 +1,31 @@
+.speech{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+.direction{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:  14px;
+    color: black;
+    background-color: azure;
+
+}
+.direction:hover{
+    background-color:blueviolet;
+}
+.MRSELVSTED{
+    color:aqua;
+
+}
+.BERTA{
+    color:aquamarine;
+
+}
+.HEDDA{
+    color:brown;
+
+}
+.TESMAN{
+    color: bisque;
+}
