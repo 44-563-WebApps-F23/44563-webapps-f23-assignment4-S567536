@@ -27,5 +27,31 @@
 
 }
 .TESMAN{
-    color: bisque;
+    color:crimson;
+}
+.BRACK{
+    color:chocolate;
+}
+table,td,th{
+    border: 1px solid;
+    color: black;
+}
+table{
+    width:50px;
+}
+th{
+    height:70%;
+    text-align: center;
+    padding: 15px;
+}
+td{
+    text-align: left;
+    padding: 15px;
+}
+tr:nth-child(even){
+    background-color: brown;
+}
+tr:hover{
+    background-color: aqua;
+
 }
