@@ -9,10 +9,12 @@
     font-size:  14px;
     color: black;
     background-color: azure;
+    transition: background-color 0.3s, color 0.3s;
 
 }
 .direction:hover{
     background-color:blueviolet;
+    color:aliceblue;
 }
 .MRSELVSTED{
     color:aqua;
@@ -24,13 +26,30 @@
 }
 .HEDDA{
     color:brown;
-
+}
+.HEDDA:hover{
+    color: darksalmon;
+    text-shadow: 0.5px;
+    filter: blur(0.5px);
+    border-style: outset;
 }
 .TESMAN{
     color:crimson;
 }
+.TESMAN:hover{
+    color: darkcyan;
+    text-shadow: 0.5px;
+    filter: blur(0.5px);
+    border-style: outset;
+}
 .BRACK{
     color:chocolate;
+}
+.BRACK:hover{
+    color:darkorange;
+    text-shadow: 0.5px;
+    filter: blur(0.5px);
+    border-style: outset;
 }
 table,td,th{
     border: 1px solid;
